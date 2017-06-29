@@ -287,7 +287,7 @@ $("#mapDiv").append(googleMap);
 
 $("#mapDiv").click(function () {
     $("#map").css("pointer-events", "auto");
-  });
+});
 
 /*
  *  // Internationalize the name at the top
